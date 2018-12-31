@@ -1,4 +1,5 @@
-    var perPage =8;
+/*<![CDATA[*/
+var perPage =8;
     var numPages=8;
     var firstText ='الصفحة الأولى';
     var lastText ='الصفحة الأخيرة';
@@ -201,3 +202,4 @@ $(".widget h2").wrap("<div class='title'></div>");
 });
 
 });
+  /*]]>*/
